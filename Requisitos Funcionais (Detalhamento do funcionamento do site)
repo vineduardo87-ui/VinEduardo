@@ -1,0 +1,30 @@
+RF-01-Cadastrar usuário
+Tem como objetivo cadastrar o usuário em nosso site e permitir o fácil acesso as nossas bibliotecas de estudo e seus conteúdos específicos de cada disciplina de ADS.
+
+RF-02-Fazer login
+Tem como objetivo permitir o acesso do usuário ao site utilizando seu email e senha.
+
+RF-03- Acessar conteúdos
+O objetivo principal é ter disponibilidade de conteúdos como vídeos,fotos e arquivos para facilitar o acesso as fontes de estudos do nosso site.
+
+RF-04-Pesquisar conteúdo
+Tem como objetivo facilitar a pesquisa e a acessibilidade aos conteúdos em nossos site, desta forma tornando a busca por nossas disciplinas mais dinâmicas e estruturadas.
+
+RF-05-Praticar e avaliar
+Tem como objetivo permitir aos usuários realizarem provas para praticarem os conteúdos de cada ciclo de ADS.
+
+RF-06-Criar Grupos
+Tem como objetivo permitir que os usuários criem grupo para estudos.
+
+RF-07-Gerenciar conteúdos
+Tem como objetivo permitir aos administradores gerenciar os conteúdos, gerando assim maior conteúdo e facilitando o controle das informações no site.
+
+RF-08-Tela de avisos
+Tem como objetivo alertar os usuários sobre atualizações e mudanças de conteúdos.
+
+RF-09-Histórico de estudos
+Tem como objetivo armazenar os conteúdos pesquisados pelo estudante e facilitar a recomendação de matérias e questionários de estudos baseado nas pesquisas.
+
+RF-10-Sistema de recomendação
+O sistema deve ser capaz de recomendar conteúdos de estudo com base nos interesses do usuário, histórico de navegação e desempenho em avaliações anteriores, desta forma facilitando a adaptação do usuário ao
+conteúdo estudado.
